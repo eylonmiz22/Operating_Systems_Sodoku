@@ -6,7 +6,7 @@ This assignment was done by 4 methods:
 1. Working with processes -> Create 3 children processes:
 	- By using exec, pipe, dup syscalls, and the stdin/out file descriptors of the father and children processes.
 	- By using mmap syscall to share a memory zone between the processes.
-2. Working with Threads -> Create 27 (9 rows * 9 cols * 9 smallMats) : with and without mutex locks and condition variables.
+2. Working with POSIX Threads -> Create 27 (9 rows * 9 cols * 9 smallMats) : with and without mutex locks and condition variables.
 
 ## Instructions: ##
 1. Please compile the program by the gcc compiler.
