@@ -1,4 +1,6 @@
 ## Description: ##
+This repository includes solutions to exercises, given as part of the Operating Systems course.
+
 The program accepts 4 files of the sodoku solution board. 
 The goal is to determine whether a given solution is legal or not according to sodoku game rules and to print the result.
 
